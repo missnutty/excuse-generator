@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.content {
+    justify-content: center;
+    margin-top: 35vh;
+    margin-left: 35vw;
+}
+
+.content h1{
+    text-align: center;
+    width: 30vw;
+    height: auto;
+}
